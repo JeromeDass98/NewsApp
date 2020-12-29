@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/cn_in"
+        android:title="@string/cn_in" />
+
+    <item android:id="@+id/cn_us"
+        android:title="@string/cn_us" />
+
+    <item android:id="@+id/cn_eg"
+        android:title="@string/cn_eg" />
+
+    <item android:id="@+id/cn_es"
+        android:title="@string/cn_es" />
+
+    <item android:id="@+id/cn_ar"
+        android:title="@string/cn_ar" />
+
+    <item android:id="@+id/cn_cu"
+        android:title="@string/cn_cu" />
+
+    <item android:id="@+id/cn_cn"
+        android:title="@string/cn_cn" />
+
+</menu>

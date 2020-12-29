@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="url">https://newsapi.org/v2/top-headlines?country=</string>
+    <string name="apiKey">apiKey=fa8258e14df14db5979883d4e7d708d1</string>
+    <string name="cn_in">India</string>
+    <string name="cn_us">US</string>
+    <string name="cn_eg">Egypt</string>
+    <string name="cn_es">Spain</string>
+    <string name="cn_ar">Argentina</string>
+    <string name="cn_cn">China</string>
+    <string name="cn_cu">Cuba</string>
+    <string name="contentDescription">News Photo</string>
+</resources>
